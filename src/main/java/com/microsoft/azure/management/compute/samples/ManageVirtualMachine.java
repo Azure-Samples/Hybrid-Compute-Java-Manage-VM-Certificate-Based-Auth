@@ -411,7 +411,7 @@ public final class ManageVirtualMachine {
                     .withDefaultSubscriptionId(subscriptionId);
 
             Azure azureStack = Azure.configure()
-                    .withLogLevel(com.microsoft.rest.LogLevel.BODY_AND_HEADERS)
+                    .withLogLevel(com.microsoft.rest.LogLevel.BASIC)
                     .authenticate(credentials, credentials.defaultSubscriptionId());
 
             // Run Manage Vm 
