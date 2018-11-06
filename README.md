@@ -6,6 +6,7 @@ author: viananth
 
 # Hybrid-Compute-Java-Manage-VM-Certificate-Based-Auth #
 
+This sample uses certificate based service principal authentication to work with VMs.
 
   Azure Compute sample for managing virtual machines -
    - Create a virtual machine
