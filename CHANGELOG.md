@@ -1,13 +1,7 @@
-## [project-title] Changelog
+## Hybrid-Compute-Java-Manage-VM-Certificate-Based-Auth Changelog
 
-<a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+<a name="1.0.0"></a>
+# 1.0.0 (2018-11-01)
 
 *Features*
-* ...
-
-*Bug Fixes*
-* ...
-
-*Breaking Changes*
-* ...
+* Manage VM sample for Java using Certificate based service principal authentication
