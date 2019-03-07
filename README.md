@@ -25,7 +25,7 @@ To run this sample:
 
 1. Clone the repository using the following command:
 
-    git clone https://github.com/Azure-Samples/hybrid-compute-java-manage-vm.git
+    git clone https://github.com/Azure-Samples/Hybrid-Compute-Java-Manage-VM-Certificate-Based-Auth.git
 
 2. Create an Azure service principal and assign a role to access the subscription. For instructions on creating a service principal, see [Use Azure PowerShell to create a service principal with a certificate](https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-create-service-principals).
 
