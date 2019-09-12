@@ -1,7 +1,11 @@
 ---
-services: Azure-Stack
-platforms: java
-author: viananth
+page_type: sample
+languages:
+- java
+products:
+- azure
+description: "This sample uses certificate based service principal authentication to work with VMs."
+urlFragment: Hybrid-Compute-Java-Manage-VM-Certificate-Based-Auth
 ---
 
 # Hybrid-Compute-Java-Manage-VM-Certificate-Based-Auth #
