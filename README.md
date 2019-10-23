@@ -4,26 +4,28 @@ languages:
 - java
 products:
 - azure
+- azure-virtual-machines
 description: "This sample uses certificate based service principal authentication to work with VMs."
-urlFragment: Hybrid-Compute-Java-Manage-VM-Certificate-Based-Auth
+urlFragment: hybrid-compute-java-manage-vm-certificate-based-auth
 ---
 
 # Hybrid-Compute-Java-Manage-VM-Certificate-Based-Auth #
 
 This sample uses certificate based service principal authentication to work with VMs.
 
-  Azure Compute sample for managing virtual machines -
-   - Create a virtual machine
-   - Update a virtual machine
-     - Tag a virtual machine 
-     - Attach data disks
-     - Detach data disks
-   - Restart a virtual machine
-   - Stop(Poweroff) virtual machine
-   - Delete a virtual machine.
+Azure Compute sample for managing virtual machines.
+
+- Create a virtual machine
+- Update a virtual machine
+ - Tag a virtual machine 
+ - Attach data disks
+ - Detach data disks
+- Restart a virtual machine
+- Stop(Poweroff) virtual machine
+- Delete a virtual machine.
 
 
-## Running this Sample ##
+## Running this sample
 
 To run this sample:
 
@@ -58,11 +60,8 @@ To run this sample:
 6. Run the sample:
     * mvn clean compile exec:java
 
-## More information ##
+## More information
 
 [http://azure.com/java](http://azure.com/java)
-
-
----
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
